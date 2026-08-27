@@ -1,1 +1,5 @@
 Aqui começamos nosso novo arquivo.
+
+Arroz,
+Feijão,
+Carne
