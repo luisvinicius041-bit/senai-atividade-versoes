@@ -6,4 +6,5 @@ Carne,
 Abóbora,
 Alface,
 Tomate,
-Verduras no geral.
+Guarda-chuva,
+Copo plástico
