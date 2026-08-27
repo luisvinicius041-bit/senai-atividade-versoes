@@ -6,4 +6,8 @@ Carne,
 Abóbora,
 Alface,
 Tomate,
-Verduras no geral.
+Cuzcuz,
+Frango,
+Toalha,
+Martelo,
+Canivete
