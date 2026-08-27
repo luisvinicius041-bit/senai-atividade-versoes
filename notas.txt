@@ -6,5 +6,8 @@ Carne,
 Abóbora,
 Alface,
 Tomate,
-Guarda-chuva,
-Copo plástico
+Guarda-chuvaaaaaa,
+Copo plástico,
+Cuzcuz,
+Frango,
+Toalha.
