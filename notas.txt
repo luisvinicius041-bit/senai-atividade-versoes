@@ -2,4 +2,8 @@ Aqui começamos nosso novo arquivo.
 
 Arroz,
 Feijão,
-Carne
+Carne,
+Abóbora,
+Alface,
+Tomate,
+Verduras no geral.
